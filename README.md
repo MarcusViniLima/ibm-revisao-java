@@ -1,8 +1,4 @@
-mvn spring-boot:start # rodando com o maven instalado no comoutador
-
-  ./mvnw spring-boot:start # roda com unix e o binário do maven no pasta oculta .mvn
-
-  mvnw.cmd spring-boot:start # roda com MSDos(windows) e o binário do maven no pasta oculta .mvn
+## Apis Desenvolvidas por @marcuslima para resolução dos exercicios
 
 ## Exercício 1 
 Codigo para ler e exibir o nome;
