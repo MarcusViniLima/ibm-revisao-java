@@ -7,7 +7,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class LogicaApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(LogicaApplication.class, args);
+		System.out.println("Bem vinde ao petshop");
+		//SpringApplication.run(LogicaApplication.class, args);
 	}
 
 }
